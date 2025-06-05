@@ -1,0 +1,5 @@
+*.cpe
+*.sym
+compile_flags.txt
+*.png
+*.map
